@@ -1,6 +1,6 @@
-mail_config:
-  - user@mail.ru
-  - password
-
-TG:
-  - id_token
+config:
+  mail_config:
+  - xxx@xxx.ru
+  - xxx
+  tg_key:
+    xxx
